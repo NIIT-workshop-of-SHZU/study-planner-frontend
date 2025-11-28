@@ -2,6 +2,10 @@
 
 基于 Vue 3 + Vite 构建的前端应用
 
+## 后端仓库
+
+本项目的后端代码仓库：[https://github.com/NIIT-workshop-of-SHZU/study_planner](https://github.com/NIIT-workshop-of-SHZU/study_planner)
+
 ## 技术栈
 
 - Vue 3 - 渐进式 JavaScript 框架
